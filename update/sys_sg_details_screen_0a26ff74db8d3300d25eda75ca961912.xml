@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="NeedIt - Last Quarter">43e84074db053300d25eda75ca9619f3</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="flag">e926bf74db8d3300d25eda75ca961968</icon>
+        <item_view display_value="NeedIt Last Quarter detail item view">7d26bf74db8d3300d25eda75ca96196c</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>0e26bf74db8d3300d25eda75ca96196f</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>paulo.gomes</sys_created_by>
+        <sys_created_on>2019-04-24 09:41:00</sys_created_on>
+        <sys_id>0a26ff74db8d3300d25eda75ca961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_details_screen_0a26ff74db8d3300d25eda75ca961912</sys_update_name>
+        <sys_updated_by>paulo.gomes</sys_updated_by>
+        <sys_updated_on>2019-04-24 09:41:00</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>

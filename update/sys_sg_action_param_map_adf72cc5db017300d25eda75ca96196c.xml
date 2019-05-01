@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Create new NeedIt">7b256085db017300d25eda75ca9619a1</button>
+        <item_parameter display_value="Short description">7244a445db017300d25eda75ca96196d</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>paulo.gomes</sys_created_by>
+        <sys_created_on>2019-04-24 13:18:43</sys_created_on>
+        <sys_id>adf72cc5db017300d25eda75ca96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7244a445db017300d25eda75ca96196d</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_adf72cc5db017300d25eda75ca96196c</sys_update_name>
+        <sys_updated_by>paulo.gomes</sys_updated_by>
+        <sys_updated_on>2019-04-24 13:18:43</sys_updated_on>
+        <ui_parameter display_value="Short description">b107e4c5db017300d25eda75ca961923</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
